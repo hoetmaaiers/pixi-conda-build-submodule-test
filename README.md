@@ -1,0 +1,3 @@
+# Project using a dependency heavy submodule as a dependency
+
+...
